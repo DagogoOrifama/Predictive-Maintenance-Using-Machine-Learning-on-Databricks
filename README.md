@@ -78,4 +78,6 @@ This project focuses on developing machine learning models to predict machine fa
 
 This project demonstrates the development and evaluation of multiple machine learning models to predict machine maintenance needs based on sensor data. The Gradient-Boosted Tree model achieved the highest accuracy, showcasing its effectiveness for this task. The project highlights the importance of data preprocessing, model selection, and hyperparameter tuning in achieving high-performance machine learning models.
 
-For more detailed information, please refer to the project report included in the repository.
+**Contact Information:**
+- **Author:** [Dagogo Orifama]
+- **Email:** [dagoris2010@gmail.com]
