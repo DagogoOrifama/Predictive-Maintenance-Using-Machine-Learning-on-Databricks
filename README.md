@@ -4,7 +4,7 @@ This project focuses on developing machine learning models to predict machine fa
 
 ## Setup and Environment
 
-- **Platform**: AWS Databricks Machine Learning
+- **Platform**: Databricks Machine Learning
 - **Cluster**: Created with the latest Databricks runtime
 - **Dataset**: `faultDataset.csv`
 
