@@ -1,10 +1,10 @@
-# Machine Learning Model Development
+# Predictive Maintenance Using Machine Learning
 
-This part of the project focuses on developing machine learning models to predict machine faults using sensor data from an industrial vibration sensor.
+This project focuses on developing machine learning models to predict machine faults using sensor data from an industrial vibration sensor. The goal is to implement and evaluate various machine learning algorithms to accurately predict maintenance needs, thereby preventing machine failures.
 
 ## Setup and Environment
 
-- **Platform**: Databricks Machine Learning
+- **Platform**: AWS Databricks Machine Learning
 - **Cluster**: Created with the latest Databricks runtime
 - **Dataset**: `faultDataset.csv`
 
@@ -76,6 +76,6 @@ This part of the project focuses on developing machine learning models to predic
 
 ## Conclusion
 
-This task demonstrates the development and evaluation of multiple machine learning models to predict machine maintenance needs based on sensor data. The Gradient-Boosted Tree model achieved the highest accuracy, showcasing its effectiveness for this task. The project highlights the importance of data preprocessing, model selection, and hyperparameter tuning in achieving high-performance machine learning models.
+This project demonstrates the development and evaluation of multiple machine learning models to predict machine maintenance needs based on sensor data. The Gradient-Boosted Tree model achieved the highest accuracy, showcasing its effectiveness for this task. The project highlights the importance of data preprocessing, model selection, and hyperparameter tuning in achieving high-performance machine learning models.
 
 For more detailed information, please refer to the project report included in the repository.
